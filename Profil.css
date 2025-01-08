@@ -1,0 +1,21 @@
+body {
+  background-color: beige;
+}
+
+.Box {
+  width: 50%;
+  float: left;
+  margin-top: 150px;
+}
+
+.Box H1 {
+  font-size: 52px;
+  font-weight: 150px;
+}
+
+.Box p {
+  margin: 20px 0px;
+  letter-spacing: 1px;
+  line-height: 24px;
+  text-align: justify;
+}
